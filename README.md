@@ -34,7 +34,8 @@ Este proyecto de análisis de datos tiene como objetivo estudiar la evolución d
 
 ## 📊 Visualización del informe
 
-Puedes ver el informe completo en Power BI abriendo el archivo `.pbix` incluido en la carpeta `/powerbi`.
+Puedes ver el informe completo en Power BI abriendo el archivo `.pbix` incluido en la carpeta `/powerbi`:
+📂 [Descargar archivo Power BI (.pbix)](./powerbi_dashboard/DentalUtilization_California.pbix)
 
 ## 📸 Capturas del dashboard
 

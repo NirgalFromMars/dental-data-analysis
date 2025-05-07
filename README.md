@@ -43,10 +43,10 @@ Puedes ver el informe completo en Power BI abriendo el archivo `.pbix` incluido 
 ![Data Model](images/Data_Model_Schema.PNG)
 
 ### 2. Index Page (Navigation Menu)
-![Index Page](images/Index.png)
+![Index Page](images/Index.PNG)
 
 ### 3. Sample Report Page
-![Report Page](images/Example_tab_DentalServices_Trend.PNG)
+![Report Page](images/Example_tab_Dental_Services_Trend.PNG)
 
 
 ## 📌 Conclusiones

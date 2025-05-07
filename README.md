@@ -39,7 +39,15 @@ Puedes ver el informe completo en Power BI abriendo el archivo `.pbix` incluido 
 
 ## 📸 Capturas del dashboard
 
-*(Aquí puedes subir imágenes a GitHub o incluir enlaces si las tienes)*
+### 1. Data Model (Star Schema)
+![Data Model](images/Data_Model_Schema.PNG)
+
+### 2. Index Page (Navigation Menu)
+![Index Page](images/Index.png)
+
+### 3. Sample Report Page
+![Report Page](images/Example_tab_DentalServices_Trend.PNG)
+
 
 ## 📌 Conclusiones
 
